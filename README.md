@@ -39,14 +39,21 @@ clover-z390master-i99900k-rx580-970pro/EFI/CLOVER/ACPI/patched/目录下的：
 
 # 必看截图
 
-![](https://tva1.sinaimg.cn/large/006tNbRwly1g9q5o0mwonj310y0lwqhj.jpg)
 
-![](https://tva1.sinaimg.cn/large/006tNbRwly1g9q5pvzqhcj31yo0u04qq.jpg)
 
-![](https://tva1.sinaimg.cn/large/006tNbRwly1g9q5rd9cadj31140ou423.jpg)
+![](https://raw.githubusercontent.com/felixyin/clover-z390master-i99900k-rx580-970pro/master/screenshots/1.jpg)
+![](https://raw.githubusercontent.com/felixyin/clover-z390master-i99900k-rx580-970pro/master/screenshots/2.jpg)
+![](https://raw.githubusercontent.com/felixyin/clover-z390master-i99900k-rx580-970pro/master/screenshots/3.jpg)
+![](https://raw.githubusercontent.com/felixyin/clover-z390master-i99900k-rx580-970pro/master/screenshots/4.jpg)
+![](https://raw.githubusercontent.com/felixyin/clover-z390master-i99900k-rx580-970pro/master/screenshots/5.jpg)
+![](https://raw.githubusercontent.com/felixyin/clover-z390master-i99900k-rx580-970pro/master/screenshots/6.jpg)
 
-![](https://tva1.sinaimg.cn/large/006tNbRwly1g9q5szqmswj31zu0u0hdt.jpg)
 
-![](https://tva1.sinaimg.cn/large/006tNbRwly1g9q5yyqvvnj32q40u0kjn.jpg)
+如上面图片无法查看，可以点击下面地址：
 
-![](https://tva1.sinaimg.cn/large/006tNbRwly1g9q6js5y3aj31460u0b2a.jpg)
+https://tva1.sinaimg.cn/large/006tNbRwly1g9q5o0mwonj310y0lwqhj.jpg
+https://tva1.sinaimg.cn/large/006tNbRwly1g9q5pvzqhcj31yo0u04qq.jpg
+https://tva1.sinaimg.cn/large/006tNbRwly1g9q5rd9cadj31140ou423.jpg
+https://tva1.sinaimg.cn/large/006tNbRwly1g9q5szqmswj31zu0u0hdt.jpg
+https://tva1.sinaimg.cn/large/006tNbRwly1g9q5yyqvvnj32q40u0kjn.jpg
+https://tva1.sinaimg.cn/large/006tNbRwly1g9q6js5y3aj31460u0b2a.jpg
